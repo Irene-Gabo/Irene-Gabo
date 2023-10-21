@@ -1,5 +1,4 @@
-### Hi there 👋 
-I’m a QA Engineer and I'm looking for a job 🌱
+### Hi there 🌱
 
 <!--
 **Irene-Gabo/Irene-Gabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
